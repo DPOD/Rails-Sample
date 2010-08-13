@@ -1,3 +1,3 @@
 # Rails Sample Application
 
-Based on http://railstutorial.org.
+Based on http://www.railstutorial.org.
